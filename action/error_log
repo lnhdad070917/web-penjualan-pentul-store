@@ -1,0 +1,10 @@
+[25-May-2022 05:19:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pentulstr/public_html/tesweb/action/terima.php:16) in /home2/pentulstr/public_html/tesweb/action/terima.php on line 35
+[25-May-2022 05:23:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pentulstr/public_html/tesweb/action/tolak.php:16) in /home2/pentulstr/public_html/tesweb/action/tolak.php on line 35
+[25-May-2022 05:23:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pentulstr/public_html/tesweb/action/tolak.php:16) in /home2/pentulstr/public_html/tesweb/action/tolak.php on line 35
+[25-May-2022 05:23:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pentulstr/public_html/tesweb/action/terima.php:16) in /home2/pentulstr/public_html/tesweb/action/terima.php on line 35
+[25-May-2022 06:08:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pentulstr/public_html/tesweb/action/terima.php:16) in /home2/pentulstr/public_html/tesweb/action/terima.php on line 35
+[25-May-2022 06:08:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/pentulstr/public_html/tesweb/action/tolak.php:16) in /home2/pentulstr/public_html/tesweb/action/tolak.php on line 35
+[25-May-2022 07:11:36 UTC] PHP Warning:  Undefined array key "username" in /home2/pentulstr/public_html/tesweb/action/ceklogin.php on line 5
+[25-May-2022 07:11:36 UTC] PHP Warning:  Undefined array key "password" in /home2/pentulstr/public_html/tesweb/action/ceklogin.php on line 6
+[25-May-2022 07:11:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/pentulstr/public_html/tesweb/action/ceklogin.php on line 11
+[25-May-2022 07:11:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home2/pentulstr/public_html/tesweb/action/ceklogin.php on line 15
